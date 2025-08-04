@@ -1,4 +1,4 @@
-# 🔥 Olá! Eu sou [SEU NOME] 
+# 🔥 Olá! Eu sou Sérgio Lima 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Criando+solu%C3%A7%C3%B5es+incr%C3%ADveis;Sempre+evoluindo!" alt="Typing SVG" />
