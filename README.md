@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá! Eu sou [SEU NOME]
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá! Eu sou Sérgio Lima
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 
 | 📱 **Aplicação Web** | 🤖 **Bot Discord** | 🎮 **Jogo JavaScript** |
 |:---:|:---:|:---:|
-| [![Projeto 1](https://img.shields.io/badge/Ver%20Projeto-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusername/projeto1) | [![Projeto 2](https://img.shields.io/badge/Ver%20Projeto-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusername/projeto2) | [![Projeto 3](https://img.shields.io/badge/Ver%20Projeto-FFE66D?style=for-the-badge&logo=github&logoColor=black)](https://github.com/seuusername/projeto3) |
+| [![Projeto 1](https://img.shields.io/badge/Ver%20Projeto-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergiolimafilho/projeto1) | [![Projeto 2](https://img.shields.io/badge/Ver%20Projeto-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergiolimafilho/projeto2) | [![Projeto 3](https://img.shields.io/badge/Ver%20Projeto-FFE66D?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sergiolimafilho/projeto3) |
 | Sistema completo com login | Bot com múltiplas funções | Jogo 2D com canvas |
 
 </div>
@@ -74,15 +74,15 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <a href="https://github.com/seuusername">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=seuusername&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seuusername&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/sergiolimafilho">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sergiolimafilho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sergiolimafilho&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/seuusername">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusername&theme=algolia" alt="GitHub Streak"/>
+  <a href="https://github.com/sergiolimafilho">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiolimafilho&theme=algolia" alt="GitHub Streak"/>
   </a>
 </div>
 
@@ -92,7 +92,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=seuusername&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sergiolimafilho&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -102,7 +102,7 @@
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seuusername&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiolimafilho&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -127,7 +127,7 @@
 **💡 Sempre aberto para novos projetos e colaborações!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sfilhofut@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999999999)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seuportfolio.com)
 
@@ -139,9 +139,9 @@
 
 ### 📊 **Dados do Perfil**
 
-![Profile Views](https://komarev.com/ghpvc/?username=seuusername&color=brightgreen&style=flat-square&label=VISUALIZAÇÕES)
-![GitHub followers](https://img.shields.io/github/followers/seuusername?label=Seguidores&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/seuusername?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=sergiolimafilho&color=brightgreen&style=flat-square&label=VISUALIZAÇÕES)
+![GitHub followers](https://img.shields.io/github/followers/sergiolimafilho?label=Seguidores&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/sergiolimafilho?style=social)
 
 **⭐ Deixe uma estrela se você gostou do meu perfil! ⭐**
 
